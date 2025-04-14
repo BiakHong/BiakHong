@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lian Hong, and I'm a Full Stack Java Developer from Catonsville, MD.</h2>
+<h2 align="left">Hi 👋! My name is Lian Hong, and I'm a Full Stack Java Developer.</h2>
 
 ###
 
