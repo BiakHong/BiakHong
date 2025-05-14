@@ -52,7 +52,7 @@ I'm a Full Stack Java Developer based in Catonsville, MD, with a strong foundati
 
 **Connect with Me**
 
-- **LinkedIn:** [linkedin.com/in/lbhong](https://linkedin.com/in/lbhong)
+- **LinkedIn:** [linkedin.com/in/lbhong](https://www.linkedin.com/in/lbhong/)
 - **GitHub:** [github.com/BiakHong](https://github.com/BiakHong)
 - **Email:** [lianbhong@gmail.com](mailto:lianbhong@gmail.com)
 
